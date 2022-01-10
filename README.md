@@ -1,6 +1,6 @@
  Hello World, I’m @miyakiyu
- One of student.
- 📫 sherry910509@gmail.com
+ -One of student.
+ -📫 sherry910509@gmail.com
 
 <!---
 miyakiyu/miyakiyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
