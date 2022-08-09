@@ -1,5 +1,5 @@
- Hello World, I’m @miyakiyu
- -One of student.
+ Hello World, I’m @miyakiyu <br/>
+ -One of student. <br/>
  -📫 sherry910509@gmail.com
 
 <!---
